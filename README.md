@@ -26,7 +26,7 @@ You can also find some usefull examples for the board available on the IDE.
 
 ## Flashing Bootloader
 
-The bootloader can be flashed on ZUM Junior using another Arduino board as ISP or any other supported ISP programmer.
+The bootloader can be flashed on ZUM Core using another Arduino board as ISP or any other supported ISP programmer.
 For further support check this [link](https://www.arduino.cc/en/Tutorial/ArduinoISP).
 
 ## License
