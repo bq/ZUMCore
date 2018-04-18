@@ -1,0 +1,31 @@
+# BQ ZUM Core Board Configuration
+#
+# For more information see:
+# - https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification
+# - https://github.com/arduino/Arduino/wiki/Arduino-Hardware-Cores-migration-guide-from-1.0-to-1.6
+#
+
+# This is a hack to use the ATmega328PB as if it was an ATmega328P
+
+#######################################################################
+# BQ ZUM Core is an Arduino Uno with an ATmega328pb.
+#######################################################################
+
+zum_core.name=BQ ZUM Core
+zum_core.upload.tool=avrdude_no_signature
+zum_core.upload.protocol=arduino
+zum_core.upload.maximum_size=32256
+zum_core.upload.maximum_data_size=2048
+zum_core.upload.speed=115200
+zum_core.bootloader.low_fuses=0xff
+zum_core.bootloader.high_fuses=0xde
+zum_core.bootloader.extended_fuses=0xf5
+zum_core.bootloader.file=zumcore/optiboot_zum_core.hex
+zum_core.bootloader.unlock_bits=0x3f
+zum_core.bootloader.lock_bits=0x0f
+zum_core.bootloader.tool=avrdude_no_signature
+zum_core.build.mcu=atmega328p
+zum_core.build.f_cpu=16000000L
+zum_core.build.core=arduino
+zum_core.build.variant=zumcore
+zum_core.build.board=AVR_zum_core
