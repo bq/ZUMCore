@@ -30,7 +30,7 @@
 #include "avr/iom328p.h"
 
 #undef LED_BUILTIN
-#define LED_BUILTIN  (8)
+#define LED_BUILTIN  (13)
 
 // Pin  0 -  7: PD0-7
 // Pin  8 - 13: PB0-5
