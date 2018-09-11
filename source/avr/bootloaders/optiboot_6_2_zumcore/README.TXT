@@ -1,8 +1,6 @@
-This directory contains the Optiboot small bootloader for AVR
-microcontrollers, somewhat modified specifically for the Arduino
-environment.
+------------------------------------------------------------
+bqZUM Core
 
-*******
 This is a slightly modified version to make optiboot compile for 
 the ATmega16 too. 
 
@@ -16,42 +14,18 @@ where <Arduino> is the path to arduino.exe.
 
 Open a command prompt and navigate to the newly added folder, ex:
 
-  <Arduino>\hardware\arduino\avr\bootloaders\optiboot_6_2_elektor\
+  <Arduino>\hardware\arduino\avr\bootloaders\optiboot_6_2_zumjunior\
 
 Enter this folder and then try make commands, like this:
 
-  make platino324a
+  make atmega328pb LED=B5
 
 This should result in a usable HEX file.
+------------------------------------------------------------
 
-There is a rule for every microcontroller supported by Platino.
-Some rules create identical bootloaders, this is normal and intended.
-The Platino bootloaders can be compiled in one go with the command:
-
-  make platino_all
-
-For the eRIC Nitro board use this command:
-
-  make eric_nitro
-  
-Make them all with:
-
-  make eric_nitro_all
-
-To make the bootloaders for all the Elektor boards use:
-
-  make elektor_all
-
-The ISP rules have not been tested but should work. Bootloader programming
-from within the Arduino IDE has been tested with all the bootloaders.
-
-Note: the ATmega48 can be used on Platino but it does not have a 
-bootloader because it doesn't have bootloader memory. It will not work
-in the Arduino IDE.
-
-Mods by CPV, Elektor
-26/10/2015
-*******
+This directory contains the Optiboot small bootloader for AVR
+microcontrollers, somewhat modified specifically for the Arduino
+environment.
 
 Optiboot is more fully described here: http://github.com/Optiboot/optiboot
 and is the work of Peter Knight (aka Cathedrow), building on work of Jason P
