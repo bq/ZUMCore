@@ -517,7 +517,7 @@ int main(void) {
   flash_led(LED_START_FLASHES * 2);
 #endif
 
-  putch(0x56);
+//  putch(0x56); // Commented line to avoid 'V' UART transmission 
 
   /* Forever loop: exits by causing WDT reset */
   for (;;) {
