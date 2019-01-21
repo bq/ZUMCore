@@ -1,0 +1,115 @@
+Altium Designer Pick and Place Locations
+C:\Users\andgulsan\AppData\Local\Temp\Releases\Snapshot\1\Assembly ZUM_Core_2.0\ZUM_Core_ASY\Pick Place\Pick Place for ZUM_Core(ZUM_Core_2.0).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/06/18
+Time:       10:07
+Revision:   468
+Variant:    ZUM_Core_2.0
+Units used: mm
+
+Designator Comment                         Layer    Footprint                     Center-X(mm) Center-Y(mm) Rotation Description                                                         
+C33        C0402_100nF_6V3_±10%            TopLayer C0402                         18.4700      23.7800      90       ""                                                                  
+SW2        "Switch SPDT"                   TopLayer Slide_SW_SPDT_Right_Angle     21.0900      5.2000       0        Switch                                                              
+R14        R0402_52,3k_0.063W_±1%          TopLayer R0402                         37.8000      24.3900      360      ""                                                                  
+D6         PMEG3030EP                      TopLayer SOD128                        20.6400      10.6550      90       "Schottky Diode"                                                    
+U6         MP2019GN-Z                      TopLayer SOIC8_EP                      26.4530      22.7750      270      "LDO Vin: 3-40V Vout: 1.2-15V @300mA"                               
+R25        R0402_10k_0.063W_±5%            TopLayer R0402                         33.3000      25.1500      90       R0402_10k_0.063W_±5%                                                
+R24        R0402_30k_0.063W_±1%            TopLayer R0402                         32.1000      25.1500      90       R0402_30k_0.063W_±1%                                                
+R11        R0402_100k_0.063W_±1%           TopLayer R0402                         23.2800      26.2400      180      ""                                                                  
+Q4         DMP2035U                        TopLayer SOT23-3                       35.2500      22.0000      90       "P-MOSFET transistor"                                               
+Q3         DMP2035U                        TopLayer SOT23-3                       39.3750      22.0000      90       "P-MOSFET transistor"                                               
+J_PWR      "DC Power Jack"                 TopLayer Jack_2.1                      8.5590       5.9060       270      Connector                                                           
+D2         PMEG3030EP                      TopLayer SOD128                        17.4150      10.6550      90       "Schottky Diode"                                                    
+C32        C0402_47nF_16V_±10%             TopLayer C0402                         31.5500      23.4100      180      ""                                                                  
+C31        Cap_Al_100uF_25V                TopLayer CASE_D_7.7                    17.2800      17.0800      180      ""                                                                  
+C30        150uF_6V3_±20%                  TopLayer CASE_B_3528-1411              20.8832      23.1827      270      ""                                                                  
+U5         nRF51822                        TopLayer QFN_48_6x6mm                  14.7750      38.2750      180      "Multiprotocol Bluetooth® low energy/2.4 GHz RF System on Chip"     
+Zs         R0402_0R_0.063W_±5%             TopLayer R0402                         7.2500       38.4000      180      R0402_0R_0.063W_±5%                                                 
+R23        R0402_330R_0.063W_±5%           TopLayer R0402                         16.7000      32.1000      180      R0402_330R_0.063W_±5%                                               
+LD4        LTST-C194TBKT                   TopLayer LED0603                       16.3750      33.2750      90       LED                                                                 
+F4         2450BM14E0003                   TopLayer BAL-0603-6PIN                 9.5000       38.8000      90       "2.45GHz Impedance Matched Balun + Band Pass Filter"                
+C18        C0402_2.2nF_16V_±10%            TopLayer C0402                         9.1000       41.3250      270      C0402_2.2nF_16V_±10%                                                
+R15        R0402_1k_0.063W_±5%             TopLayer R0402                         31.5500      19.3500      180      R0402_1k_0.063W_±5%                                                 
+J2         "CON_PH_THT2.54_8 Natural"      TopLayer 1x8_Pin_Header_2.54           32.7660      41.2750      360      Connector                                                           
+J3         "CON_PH_THT2.54_8 Red"          TopLayer 1x8_Pin_Header_2.54           32.7660      43.8150      360      Connector                                                           
+J14        CON_PH_THT2.54_6                TopLayer 1x6_Pin_Header_2.54           53.3400      6.9850       360      Connector                                                           
+R22        R0402_52,3k_0.063W_±1%          TopLayer R0402                         21.3000      32.7500      180      ""                                                                  
+R6         R0402_100k_0.063W_±1%           TopLayer R0402                         28.8000      10.2250      180      R0402_100k_0.063W_±1%                                               
+R3         R0402_10R_0.063W_±1%            TopLayer R0402                         29.2000      6.9750       180      R0402_10R_0.063W_±1%                                                
+C25        C0402_12pF_16V_±10%             TopLayer C0402                         12.2500      32.1750      360      C0402_12pF_16V_±10%                                                 
+C23        C0402_2.2nF_16V_±10%            TopLayer C0402                         9.7500       36.4750      360      C0402_2.2nF_16V_±10%                                                
+C22        C0603_100nF_50V_±10%_X7R        TopLayer C0603                         19.5250      36.7750      270      C0603_100nF_50V_±10%_X7R                                            
+C8         C0603_100nF_50V_±10%_X7R        TopLayer C0603                         16.2250      29.5500      270      C0603_100nF_50V_±10%_X7R                                            
+F3         "FUSE 0.5A 15V"                 TopLayer F1812                         9.8250       29.6500      0        "Resettable Fuses"                                                  
+Y1         CSTCE16M0V53-R0                 TopLayer Resonator_1.3x3.2             56.2500      32.9000      315      "Resonator 16MHz"                                                   
+U4         SN74CBT3257CP                   TopLayer TSSOP16                       26.4500      30.4750      270      Multiplexer                                                         
+U2         CP2104                          TopLayer QFN24_no_power                14.7750      25.1000      0        "USB to UART Bridge"                                                
+U1         ATMEGA328PB                     TopLayer TQFP32                        53.4479      26.6762      225      "8-bit Microcontrollers - MCU 32KB In-system Flash 20MHz 1.8V-5.5V" 
+SW1        "SW Vertical THT"               TopLayer SW_Vert_THT_7.5x6x6.5         64.4090      14.6410      270      Switch                                                              
+R16        R0402_82k_0.063W_±1%            TopLayer R0402                         31.5500      18.2000      360      R0402_82k_0.063W_±1%                                                
+R12        R0402_20R_0.063W_±5%            TopLayer R0402                         65.1750      21.3500      90       R0402_20R_0.063W_±5%                                                
+R10        R0402_10k_0.063W_±5%            TopLayer R0402                         39.0214      26.6500      180      R0402_10k_0.063W_±5%                                                
+R9         R0402_52,3k_0.063W_±1%          TopLayer R0402                         31.7142      8.6443       270      ""                                                                  
+R7         R0603_1M_0.1W_±5%               TopLayer R0603                         9.3000       21.1000      180      R0603_1M_0.1W_±5%                                                   
+R5         R0402_1k_0.063W_±5%             TopLayer R0402                         33.6500      28.0250      90       R0402_1k_0.063W_±5%                                                 
+R4         R0402_1k_0.063W_±5%             TopLayer R0402                         32.1305      28.0250      90       R0402_1k_0.063W_±5%                                                 
+R8         R0402_330R_0.063W_±5%           TopLayer R0402                         18.0250      45.0500      90       R0402_330R_0.063W_±5%                                               
+R1         R0603_1M_0.1W_±5%               TopLayer R0603                         57.5250      34.2250      135      R0603_1M_0.1W_±5%                                                   
+Q2         DMP2035U                        TopLayer SOT23-3                       39.3750      18.3750      90       "P-MOSFET transistor"                                               
+RX         HSMH-C190                       TopLayer LED0603                       33.6545      30.7390      360      LED                                                                 
+TX         HSMG-C190                       TopLayer LED0603                       32.1305      30.7390      360      LED                                                                 
+L2         L0805_33R_0,008R_4000mA         TopLayer L0805                         11.1500      14.5200      360      ""                                                                  
+J13        "CON_PH_THT2.54_6 Red"          TopLayer 1x6_Pin_Header_2.54           53.3400      9.5250       360      Connector                                                           
+J12        "CON_PH_THT2.54_6 Blue"         TopLayer 1x6_Pin_Header_2.54           53.3400      12.0650      360      Connector                                                           
+J9         CON_SH_THT2.54_6                TopLayer 1x6_Socket_Header_THT_2.54mm  57.1500      2.5400       360      Connector                                                           
+J10        CON_DPH_THT2.54_6               TopLayer 2x3_Pin_Header_2.54           64.8970      27.9400      270      Connector                                                           
+J5         CON_SH_THT2.54_8                TopLayer 1x8_Socket_Header_THT_2.54mm  54.6100      50.8000      180      Connector                                                           
+J11        CON_SH_THT2.54_8                TopLayer 1x8_Socket_Header_THT_2.54mm  36.8300      2.5400       360      Connector                                                           
+J1         "Micro USB Type B W/ Rear Pegs" TopLayer USB_B_W_REAR_PEGS             2.8000       25.4170      270      "Micro USB Type B W/ Rear Pegs"                                     
+F2         "USB ESD Single"                TopLayer SOT563                        9.2750       25.8500      180      "TVS Diode Array"                                                   
+F1         "FUSE 2.6A 16V"                 TopLayer F1812                         9.8250       17.2800      360      "Resettable Fuses"                                                  
+D4         HSMG-C190                       TopLayer LED0603                       19.3750      44.7250      180      LED                                                                 
+D1         BAT54S                          TopLayer SOT23-3                       37.3357      29.3098      0        "Schottky Diode"                                                    
+C14        C0402_2.2uF_16V_±20%            TopLayer C0402                         34.9843      28.0250      90       C0402_2.2uF_16V_±20%_X5R                                            
+C13        C0805_4700pF_250V_±10%_X7R      TopLayer C0805                         9.8500       22.6750      0        C0805_4700pF_250V_±10%_X7R                                          
+C12        C0402_47pF_16V_±10%             TopLayer C0402                         11.2250      24.6500      90       C0402_47pF_16V_±10%                                                 
+C11        C0402_47pF_16V_±10%             TopLayer C0402                         11.3000      26.8000      270      C0402_47pF_16V_±10%                                                 
+C9         C0402_2.2uF_16V_±20%            TopLayer C0402                         16.2250      21.4300      360      C0402_2.2uF_16V_±20%_X5R                                            
+C6         C0402_2.2uF_16V_±20%            TopLayer C0402                         12.1750      21.4000      90       C0402_2.2uF_16V_±20%_X5R                                            
+C21        C0603_100nF_50V_±10%_X7R        TopLayer C0603                         19.5250      39.8250      90       C0603_100nF_50V_±10%_X7R                                            
+C20        C0603_100nF_50V_±10%_X7R        TopLayer C0603                         13.9500      32.6750      90       C0603_100nF_50V_±10%_X7R                                            
+C17        C0603_100nF_50V_±10%_X7R        TopLayer C0603                         28.6250      34.1000      360      C0603_100nF_50V_±10%_X7R                                            
+C24        C0402_12pF_16V_±10%             TopLayer C0402                         12.2500      33.3750      360      C0402_12pF_16V_±10%                                                 
+C10        C0603_100nF_50V_±10%_X7R        TopLayer C0603                         14.0500      21.4300      180      C0603_100nF_50V_±10%_X7R                                            
+C19        C0402_47nF_16V_±10%             TopLayer C0402                         10.3000      41.3250      270      C0402_47nF_16V_±10%                                                 
+C7         C0603_100nF_50V_±10%_X7R        TopLayer C0603                         13.6250      29.5500      90       C0603_100nF_50V_±10%_X7R                                            
+C5         C0402_2.2uF_16V_±20%            TopLayer C0402                         49.6250      22.1750      135      C0402_2.2uF_16V_±20%_X5R                                            
+C4         C0402_2.2uF_16V_±20%            TopLayer C0402                         58.9000      31.5750      315      C0402_2.2uF_16V_±20%_X5R                                            
+C3         C0402_2.2uF_16V_±20%            TopLayer C0402                         48.1750      23.6250      135      C0402_2.2uF_16V_±20%_X5R                                            
+C2         C0603_100nF_50V_±10%_X7R        TopLayer C0603                         58.1318      30.4578      315      C0603_100nF_50V_±10%_X7R                                            
+C1         C0603_100nF_50V_±10%_X7R        TopLayer C0603                         47.3750      22.5750      135      C0603_100nF_50V_±10%_X7R                                            
+Y2         "Crystal 16 MHz"                TopLayer ABM8G_3.2x2.5mm               9.0000       33.5750      180      "Crystal 16 MHz"                                                    
+L1         L0603_120R_0,025R_3000mA        TopLayer L0603                         14.9250      29.5500      270      L0603_120R_0,025R_3000mA                                            
+J4         CON_PH_THT2.54_8                TopLayer 1x8_Pin_Header_2.54           32.7660      46.3550      360      Connector                                                           
+Q1         DMP2035U                        TopLayer SOT23-3                       35.2500      18.3750      90       "P-MOSFET transistor"                                               
+L3         2,2uH_6,3A                      TopLayer SRN8040                       37.8200      10.7800      180      "Semi-shielded power inductor"                                      
+C15        C0603_1uF_25V_±10%              TopLayer C0603                         27.2500      7.6750       270      ""                                                                  
+C16        C1206_22uF_25V_±10%             TopLayer C1206                         23.7400      10.2300      90       ""                                                                  
+C26        C0603_100nF_50V_±10%_X7R        TopLayer C0603                         26.4250      12.4000      180      C0603_100nF_50V_±10%_X7R                                            
+C27        C1206_22uF_25V_±10%             TopLayer C1206                         30.3500      14.6250      360      ""                                                                  
+C28        C1206_22uF_25V_±10%             TopLayer C1206                         30.3500      12.0191      360      ""                                                                  
+R13        R0402_75k_0.063W_±1%            TopLayer R0402                         30.8006      8.6443       270      R0402_75k_0.063W_±1%                                                
+R17        R0402_10k_0.063W_±5%            TopLayer R0402                         31.7676      7.0083       180      R0402_10k_0.063W_±5%                                                
+U3         MP1477H                         TopLayer SOT-563_-_MP1477H             29.0000      8.6250       270      "DCDC Step Down Vout= 1-5V; Vin= 12-17V"                            
+J7         "CON_PH_THT2.54_6 Red"          TopLayer 1x8_Header_2.54_(3D_Mod)      54.6100      43.8150      360      Connector                                                           
+J6         "CON_PH_THT2.54_6 Natural"      TopLayer 1x8_Header_2.54_(3D_Mod)      54.6100      41.2750      360      Connector                                                           
+J8         CON_PH_THT2.54_6                TopLayer 1x8_Header_2.54_(3D_Mod)      54.6100      46.3550      360      Connector                                                           
+J15        CON_SH_THT2.54_10               TopLayer 1x10_Socket_Header_THT_2.54mm 30.2260      50.8000      180      Connector                                                           
+D3         HSMG-C190                       TopLayer LED0603                       4.3324       17.4485      90       LED                                                                 
+R18        R0402_330R_0.063W_±5%           TopLayer R0402                         4.2783       16.1178      360      R0402_330R_0.063W_±5%                                               
+R19        R0402_100k_0.063W_±1%           TopLayer R0402                         36.8607      26.6500      180      ""                                                                  
+R20        R0402_330R_0.063W_±5%           TopLayer R0402                         34.9843      30.2500      90       R0402_330R_0.063W_±5%                                               
+R2         R0402_1k_0.063W_±5%             TopLayer R0402                         17.7100      21.9050      90       R0402_1k_0.063W_±5%                                                 

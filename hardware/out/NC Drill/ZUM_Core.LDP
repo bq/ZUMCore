@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\andgulsan\AppData\Local\Temp\Releases\Snapshot\1\Layout\ZUM_Core.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=zum_core-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=zum_core-slotholes.txt|DrillLayers=gtl,gbl

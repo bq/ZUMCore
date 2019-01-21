@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: C:\Users\andgulsan\AppData\Local\Temp\Releases\Snapshot\1\Layout\ZUM_Core.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Antenna|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_KO|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_USB_Shield|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_A5 to hole|Scope=Board|Minimum=1.97
+RuleKind=ShortCircuit|RuleName=U3_Thermal_Vias|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance_U5_Pads|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Polygon_VinDCDC|Scope=Board|Minimum=5.51
+RuleKind=Clearance|RuleName=Poly_5V@3A|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Poly_VDC|Scope=Board|Minimum=10.63
+RuleKind=ShortCircuit|RuleName=ShortCircuit_antenna|Scope=Board|Allowed=1
