@@ -1,5 +1,10 @@
-# ZUMCore
+# ZUMCore 2
 BQ ZUM Core integration on Arduino IDE
+
+This is the evolution of the bqZUM Core board available [here](https://github.com/bq/zum).
+Main changes are:
+1. Move to Bluetooth Low Energy (BLE).
+1. Change from ATMega328P to ATMega328PB.
 
 ## Getting Started
 
