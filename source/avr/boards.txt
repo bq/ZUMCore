@@ -8,10 +8,10 @@
 # This is a hack to use the ATmega328PB as if it was an ATmega328P
 
 #######################################################################
-# BQ ZUM Core is an Arduino Uno with an ATmega328pb.
+# BQ ZUM Core 2 is an Arduino Uno with an ATmega328pb.
 #######################################################################
 
-zum_core.name=BQ ZUM Core
+zum_core.name=BQ ZUM Core 2
 zum_core.upload.tool=avrdude_no_signature
 zum_core.upload.protocol=arduino
 zum_core.upload.maximum_size=32256
@@ -27,5 +27,5 @@ zum_core.bootloader.tool=avrdude_no_signature
 zum_core.build.mcu=atmega328p
 zum_core.build.f_cpu=16000000L
 zum_core.build.core=arduino
-zum_core.build.variant=zumcore
-zum_core.build.board=AVR_zum_core
+zum_core.build.variant=zumcore2
+zum_core.build.board=AVR_zum_core2
